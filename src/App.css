@@ -1,8 +1,11 @@
+@import url(https://db.onlinewebfonts.com/c/1ccdd11fd9d1d81756c40d7acb17d0aa?family=Circular+Spotify+Tx+T+Light);
+
 .App {
   height: 100vh;
-  background-color: #1a202c;
+  background-color: #1D1D1D;
   overflow: scroll;
   text-align: center;
+  font-family: "Circular Spotify Tx T Light";
 }
 
 .container {
@@ -24,12 +27,14 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
-  color: white;
+  color: #C1E8C5;
+
 }
 
 .sub-text {
   font-size: 25px;
   color: white;
+  
 }
 
 .gradient-text {
@@ -74,6 +79,12 @@
   bottom: 0;
   left: 0;
   padding-bottom: 45px;
+}
+
+.spotify-logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
 }
 
 .twitter-logo {

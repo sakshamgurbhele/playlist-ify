@@ -1,4 +1,4 @@
-# Solana Playlist-ify - A playlist on Solana Blockchain
+# Playlist-ify - A playlist on Solana Blockchain
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
