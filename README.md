@@ -1,4 +1,4 @@
-# buildspace Solana GIF Portal Project
+# Solana Playlist-ify - A playlist on Solana Blockchain
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
@@ -13,4 +13,4 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 
 ### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3) and link your Discord account so you can get access to helpful channels and your instructor!
+Have some questions make sure you head over to your [Saksham's Twitter](https://www.twitter.com/sakshamm_9) or [Saksham's Github](https://www.github.com/sakshamgurbhele).
