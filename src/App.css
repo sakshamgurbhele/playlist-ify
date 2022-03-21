@@ -5,7 +5,7 @@
   background-color: #1D1D1D;
   overflow: scroll;
   text-align: center;
-  font-family: "Circular Spotify Tx T Light";
+  font-family: "Circular Spotify Tx T Light", sans-serif;
 }
 
 .container {
@@ -63,6 +63,7 @@
   animation: gradient-animation 4s ease infinite;
 }
 
+
 .submit-gif-button {
   background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
   background-size: 200% 200%;
@@ -105,6 +106,7 @@
   justify-items: center;
   margin: 0;
   padding: 0;
+  overflow: scroll;
 }
 
 .gif-grid .gif-item {
@@ -138,4 +140,8 @@
 
 .connected-container button {
   height: 50px;
+}
+
+.iframe {
+  border-radius: 2rem;
 }
