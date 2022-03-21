@@ -114,7 +114,7 @@ const App = () => {
       <div className="gif-grid">
         {gifList.map(gif => (
           <div className="gif-item" key={gif}>
-          <iframe scrolling="yes" src={gif} width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+          <iframe title='spotify' src={gif} width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           </div>
         ))}
       </div>
